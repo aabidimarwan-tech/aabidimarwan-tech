@@ -1,4 +1,8 @@
-
+      <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>                                               github 
 👋 Hi, I’m Marouane Aabidi
 
 I’m an international student currently studying Data Science at Leeds Beckett University.
