@@ -1,14 +1,32 @@
-## Hi there 👋
 
+👋 Hi, I’m Marouane Aabidi
 
-Here are some ideas to get you started:
+I’m an international student currently studying Data Science at Leeds Beckett University.
+I’m passionate about working with data to uncover insights, build models, and solve real-world problems.
 
-- 🔭 I’m currently studying on Leeds Becket University 
-- 🌱 I’m currently learning Data Science 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔍 Interests
 
+Python
+solving problem by using the Data
+
+🛠️ Skills
+
+Programming: Python, SQL, R
+
+Libraries: Pandas 
+
+Tools: Git, GitHub
+
+📂 Projects
+
+This GitHub portfolio showcases my academic and personal projects, including:
+
+Data cleaning and exploratory data analysis (EDA)
+
+Machine learning models
+
+📫 Contact
+
+GitHub: you’re already here 🙂
+
+LinkedIn: ......
