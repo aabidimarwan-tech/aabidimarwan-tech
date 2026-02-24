@@ -4,22 +4,38 @@
   </a>
 </p>                                       
 👋 Hi, I’m Marouane Aabidi
-
-I’m an international student currently studying Data Science at Leeds Beckett University.
-I’m passionate about working with data to uncover insights, build models, and solve real-world problems.
+I’m an international student currently studying BSc (Hons) Data Science & AI at Leeds Beckett University.
+I’m passionate about turning data into insights, building analytical solutions, and solving real‑world problems through data‑driven thinking.
 
 🔍 Interests
 
-Python
-solving problem by using the Data
+Data analysis & problem‑solving with Python
+Exploratory data analysis (EDA)
+Machine learning fundamentals
+Statistical thinking
+Data visualisation
+
+
 
 🛠️ Skills
 
-Programming: Python, SQL, R
+Programming
 
-Libraries: Pandas 
+Python
+SQL
+R
 
-Tools: Git, GitHub
+Libraries & Frameworks
+
+Pandas
+NumPy (optional to include)
+Matplotlib / Seaborn (optional)
+
+Tools
+
+Git & GitHub
+Jupyter Notebook
+VS Code
 
 📂 Projects
 
@@ -33,5 +49,6 @@ Machine learning models
 
 GitHub: you’re already here 🙂
 
-LinkedIn: aabidimarwan@gmail.com
+LinkedIn : Marouane Aabidi
+Email :aabidimarwan@gmail.com
 
