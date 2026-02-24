@@ -33,4 +33,5 @@ Machine learning models
 
 GitHub: you’re already here 🙂
 
-LinkedIn: ......
+LinkedIn: aabidimarwan@gmail.com
+
