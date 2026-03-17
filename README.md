@@ -3,7 +3,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>                                       
-👋 Hi, I’m Marouane Aabidi
+👋 Hi, I’m Marwan Aabidi
 I’m an international student currently studying BSc (Hons) Data Science & AI at Leeds Beckett University.
 I’m passionate about turning data into insights, building analytical solutions, and solving real‑world problems through data‑driven thinking.
 
